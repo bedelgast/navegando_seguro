@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/portada.unity
+    guid: d82cbf4f8f5fe0e43902bdd1fac20fd7
+  - enabled: 1
+    path: Assets/Scenes/objetivo.unity
+    guid: e40af9d5fe3bcff4e95c9f6e65c3e99b
+  - enabled: 1
+    path: Assets/Scenes/seleccion.unity
+    guid: 97f99f9f414496d4c88f253343a80a45
+  - enabled: 1
+    path: Assets/Scenes/entrada-el.unity
+    guid: 6ef41f4be8bc0f2479a4c8bb51167b6e
+  - enabled: 1
+    path: Assets/Scenes/entrada-ella.unity
+    guid: 4eb0af6a30acecc44bbba030ab01733e
+  - enabled: 1
+    path: Assets/Scenes/entrada-pix.unity
+    guid: 8ad5da64d286ac840b35c08e38853d4f
+  - enabled: 1
+    path: Assets/Scenes/batalla-el.unity
+    guid: 3a1865cd13d8bc7438c0966562cd3829
+  - enabled: 1
+    path: Assets/Scenes/batalla-ella.unity
+    guid: b4c66e84285688a46bb2f48bfef745d8
+  - enabled: 1
+    path: Assets/Scenes/batalla-pix.unity
+    guid: 9ba366d35212c1e4fac475e708a2184f
+  - enabled: 1
+    path: Assets/Scenes/final-si.unity
+    guid: 862f5641deb83d04db50fda34d80c325
+  - enabled: 1
+    path: Assets/Scenes/final-no.unity
+    guid: 2b3b6448adbfe4545979e24e5999b8e7
+  - enabled: 1
+    path: Assets/Scenes/datos.unity
+    guid: 07c1ec5b6a0ea084f86f8232a39f61e4
+  m_configObjects: {}

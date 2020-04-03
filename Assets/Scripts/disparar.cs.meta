@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: eef28891d7a26004993ad6d31ec722f2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - verde: {fileID: 8893400387979192903, guid: f5707ce557aceb740b2e134447fb7f69, type: 3}
+  - azul: {fileID: 8509567463149553865, guid: 88ce0eeeeced0d6449456b2cad1df533, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

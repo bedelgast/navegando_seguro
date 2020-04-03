@@ -1,0 +1,943 @@
+fileFormatVersion: 2
+guid: 0333610f20ea33c45a51c82ace0a8086
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2135937313498017633
+    second: virusn_0
+  - first:
+      213: 7512230672036107742
+    second: virusn_1
+  - first:
+      213: 2217996474320305807
+    second: virusn_2
+  - first:
+      213: -8923848633406345179
+    second: virusn_3
+  - first:
+      213: -2216941798515406280
+    second: virusn_4
+  - first:
+      213: -3307932565158906561
+    second: virusn_5
+  - first:
+      213: -7121486925740748705
+    second: virusn_6
+  - first:
+      213: -5007246668400838878
+    second: virusn_7
+  - first:
+      213: -4798632206353070132
+    second: virusn_8
+  - first:
+      213: -2198251129544511440
+    second: virusn_9
+  - first:
+      213: -5486817749199741335
+    second: virusn_10
+  - first:
+      213: 4919519448263548656
+    second: virusn_11
+  - first:
+      213: 7257613028870457452
+    second: virusn_12
+  - first:
+      213: 785521158981224926
+    second: virusn_13
+  - first:
+      213: 3514955426770635446
+    second: virusn_14
+  - first:
+      213: -4264213041600646597
+    second: virusn_15
+  - first:
+      213: 5781744801024481272
+    second: virusn_16
+  - first:
+      213: -179397626834750788
+    second: virusn_17
+  - first:
+      213: 8912725699872283324
+    second: virusn_18
+  - first:
+      213: 453927784059573370
+    second: virusn_19
+  - first:
+      213: -6127755870401050465
+    second: virusn_20
+  - first:
+      213: -6750714688031160921
+    second: virusn_21
+  - first:
+      213: -3169669756630261198
+    second: virusn_22
+  - first:
+      213: -943696538200413722
+    second: virusn_23
+  - first:
+      213: 7510821362096904339
+    second: virusn_24
+  - first:
+      213: -2045567899531737348
+    second: virusn_25
+  - first:
+      213: 3150328505255149027
+    second: virusn_26
+  - first:
+      213: -1361684155412475196
+    second: virusn_27
+  - first:
+      213: -5955959998084278734
+    second: virusn_28
+  - first:
+      213: -4223184687332571102
+    second: virusn_29
+  - first:
+      213: -1375900810968495396
+    second: virusn_30
+  - first:
+      213: -6033831200863365936
+    second: virusn_31
+  - first:
+      213: -3497607115176829217
+    second: virusn_32
+  - first:
+      213: -3475786986997762437
+    second: virusn_33
+  - first:
+      213: 5722323528198937610
+    second: virusn_34
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 110
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: virusn_0
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 856
+        width: 185
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a736d715d419c3446a85966d9239ae6c
+      internalID: 2135937313498017633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: virusn_1
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 856
+        width: 181
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc41230d1d46044f828f1e6261c70d3
+      internalID: 7512230672036107742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: virusn_2
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 856
+        width: 182
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bb131ea46f5104288c64cf62f29daa
+      internalID: 2217996474320305807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: virusn_3
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 856
+        width: 183
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4533b8cf60e5c4a4c926cf2ecdcd30d5
+      internalID: -8923848633406345179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: virusn_4
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 856
+        width: 183
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7fc38faf77eeb41b57a9b6959fc3f0
+      internalID: -2216941798515406280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: virusn_5
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 856
+        width: 185
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6745df35179ec25488d54f9848030dc9
+      internalID: -3307932565158906561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: virusn_6
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 856
+        width: 185
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ffe38a91eb4fc4183705c778cf8aff
+      internalID: -7121486925740748705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: virusn_7
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 856
+        width: 186
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae05e313a783f9845bc9abfa4bafc662
+      internalID: -5007246668400838878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: virusn_8
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 646
+        width: 186
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae00feaade7d12341b43fb366e87ee2a
+      internalID: -4798632206353070132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: virusn_9
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 646
+        width: 187
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e26d766731b40f49a3f15aa9510759d
+      internalID: -2198251129544511440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: virusn_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 646
+        width: 189
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0a01a9ffd523f40b956329946f5619
+      internalID: -5486817749199741335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: virusn_11
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 646
+        width: 189
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6205ec039a2677b40a854f6471570bd4
+      internalID: 4919519448263548656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: virusn_12
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 646
+        width: 189
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05482083c1d43d246bf64ea8b2ac39b3
+      internalID: 7257613028870457452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: virusn_13
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 646
+        width: 187
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646a0a0aff40f28429d8ec5e6d7fefd9
+      internalID: 785521158981224926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: virusn_14
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 646
+        width: 186
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9506c40aa34e86f4b96c0463a3f04276
+      internalID: 3514955426770635446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: virusn_15
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 646
+        width: 186
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac60cc098bd85f4e9aad073247cf989
+      internalID: -4264213041600646597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: virusn_16
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 446
+        width: 185
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6f6e92472ff624cb7fce008d848548
+      internalID: 5781744801024481272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: virusn_17
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 446
+        width: 184
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4a8517ad5e1e648b891c3ccf1864b2
+      internalID: -179397626834750788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: virusn_18
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 446
+        width: 183
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1483d36ed5de9d84ba29cf7d3017b407
+      internalID: 8912725699872283324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: virusn_19
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 446
+        width: 183
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5594549fb3ad2546bdff7e130f46a3e
+      internalID: 453927784059573370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: virusn_20
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 446
+        width: 182
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b474c527b3eff8499a598d0a139b6c9
+      internalID: -6127755870401050465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: virusn_21
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 446
+        width: 181
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c75bb5f22a70c94982073dfdc70e065
+      internalID: -6750714688031160921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: virusn_22
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 446
+        width: 181
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450706b6389831e439d4269e1dfe8336
+      internalID: -3169669756630261198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: virusn_23
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 446
+        width: 181
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6aa7c22d4b13f4e8745b19bcd68ea4
+      internalID: -943696538200413722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: virusn_24
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 256
+        width: 181
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a0317ff195ef24797a87030e685b9b
+      internalID: 7510821362096904339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: virusn_25
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 256
+        width: 182
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e029ed354891da94798058471e9dcfcc
+      internalID: -2045567899531737348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: virusn_26
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 256
+        width: 182
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792460ca9b4e07f4694cf06fb7ee77c8
+      internalID: 3150328505255149027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: virusn_27
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 256
+        width: 181
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d397e9d8cd74f1242b8426b4e731be59
+      internalID: -1361684155412475196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: virusn_28
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 256
+        width: 182
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0986ccbf076ae704c9b650bb94ed6a4a
+      internalID: -5955959998084278734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: virusn_29
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 256
+        width: 181
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc5b0863d597f54d8d16d99ab384d5b
+      internalID: -4223184687332571102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: virusn_30
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 256
+        width: 181
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44060d6ca3b1ccd47ac31f1c9a47d3e3
+      internalID: -1375900810968495396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: virusn_31
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 256
+        width: 181
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d0464077319864a80d16efb26377e9
+      internalID: -6033831200863365936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: virusn_32
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 73
+        width: 182
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65fe6737554f4f4d9b305dd0a3d345d
+      internalID: -3497607115176829217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: virusn_33
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 73
+        width: 183
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de80364488f6f54aa4057e562972217
+      internalID: -3475786986997762437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: virusn_34
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 73
+        width: 183
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119320753d94de9408c636033d46ddf4
+      internalID: 5722323528198937610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

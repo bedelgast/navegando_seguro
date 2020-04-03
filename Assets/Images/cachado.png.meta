@@ -1,0 +1,2095 @@
+fileFormatVersion: 2
+guid: b356249e57102804d95e048f6f73cbcf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7326934607041376315
+    second: cachado_0
+  - first:
+      213: 4554254695801245363
+    second: cachado_1
+  - first:
+      213: -919680606842149071
+    second: cachado_2
+  - first:
+      213: -6227841245101030263
+    second: cachado_3
+  - first:
+      213: 5538286299926110552
+    second: cachado_4
+  - first:
+      213: -2343649178151596284
+    second: cachado_5
+  - first:
+      213: 5836372460659569654
+    second: cachado_6
+  - first:
+      213: 6908479691123873862
+    second: cachado_7
+  - first:
+      213: -1824543773262509824
+    second: cachado_8
+  - first:
+      213: -6188777025447492831
+    second: cachado_9
+  - first:
+      213: -253892339308173950
+    second: cachado_10
+  - first:
+      213: 3896245126640167871
+    second: cachado_11
+  - first:
+      213: 6714414575290479934
+    second: cachado_12
+  - first:
+      213: 889539424403945657
+    second: cachado_13
+  - first:
+      213: 4342182359403768513
+    second: cachado_14
+  - first:
+      213: 2043971561649453256
+    second: cachado_15
+  - first:
+      213: -2354594305667974207
+    second: cachado_16
+  - first:
+      213: -4402693591123919944
+    second: cachado_17
+  - first:
+      213: 5654053705252157539
+    second: cachado_18
+  - first:
+      213: -3687971197585981052
+    second: cachado_19
+  - first:
+      213: 3052198674457402620
+    second: cachado_20
+  - first:
+      213: 4662970534846379582
+    second: cachado_21
+  - first:
+      213: -3992005854575056195
+    second: cachado_22
+  - first:
+      213: -1013308038742855230
+    second: cachado_23
+  - first:
+      213: 8113514232886894857
+    second: cachado_24
+  - first:
+      213: -6051300534412489208
+    second: cachado_25
+  - first:
+      213: -1573849198311315943
+    second: cachado_26
+  - first:
+      213: 6721014546516328643
+    second: cachado_27
+  - first:
+      213: -5309576793812893631
+    second: cachado_28
+  - first:
+      213: -6117880442867299048
+    second: cachado_29
+  - first:
+      213: 8404911093800277917
+    second: cachado_30
+  - first:
+      213: 3288577546161850923
+    second: cachado_31
+  - first:
+      213: -4213969572331400020
+    second: cachado_32
+  - first:
+      213: 4891408364157737912
+    second: cachado_33
+  - first:
+      213: -2851165690067494153
+    second: cachado_34
+  - first:
+      213: 1242960723333651963
+    second: cachado_35
+  - first:
+      213: -2411305290930094990
+    second: cachado_36
+  - first:
+      213: -6326213137153514339
+    second: cachado_37
+  - first:
+      213: -599047591629838202
+    second: cachado_38
+  - first:
+      213: -3556094451931727759
+    second: cachado_39
+  - first:
+      213: 4920586294251535205
+    second: cachado_40
+  - first:
+      213: 8087228569708101816
+    second: cachado_41
+  - first:
+      213: -5338636944551436205
+    second: cachado_42
+  - first:
+      213: 3266031784247081160
+    second: cachado_43
+  - first:
+      213: -5430090337320469784
+    second: cachado_44
+  - first:
+      213: -1089812699592325681
+    second: cachado_45
+  - first:
+      213: -6782504945592493126
+    second: cachado_46
+  - first:
+      213: -7314725313956227133
+    second: cachado_47
+  - first:
+      213: -7579068971421582159
+    second: cachado_48
+  - first:
+      213: -881602268046981439
+    second: cachado_49
+  - first:
+      213: -6027330185651306860
+    second: cachado_50
+  - first:
+      213: -7802345327648481396
+    second: cachado_51
+  - first:
+      213: -4017392260057021945
+    second: cachado_52
+  - first:
+      213: -5543062265474765602
+    second: cachado_53
+  - first:
+      213: -445204857950987412
+    second: cachado_54
+  - first:
+      213: 2630763849292709166
+    second: cachado_55
+  - first:
+      213: -503151725608764491
+    second: cachado_56
+  - first:
+      213: -3566512412852871340
+    second: cachado_57
+  - first:
+      213: -8428769538641256035
+    second: cachado_58
+  - first:
+      213: -1464454364795673547
+    second: cachado_59
+  - first:
+      213: -2919938871338475038
+    second: cachado_60
+  - first:
+      213: -4903616772665921950
+    second: cachado_61
+  - first:
+      213: -8653588146185073519
+    second: cachado_62
+  - first:
+      213: -7845560903923403119
+    second: cachado_63
+  - first:
+      213: -8458679110530891864
+    second: cachado_64
+  - first:
+      213: 4813782318400065054
+    second: cachado_65
+  - first:
+      213: 359756506475655891
+    second: cachado_66
+  - first:
+      213: 1377567860030638434
+    second: cachado_67
+  - first:
+      213: -2887393412109790494
+    second: cachado_68
+  - first:
+      213: -5269046352121183681
+    second: cachado_69
+  - first:
+      213: 8061264849742083953
+    second: cachado_70
+  - first:
+      213: -1273405794386352099
+    second: cachado_71
+  - first:
+      213: -4839248234129801481
+    second: cachado_72
+  - first:
+      213: -3424464325214008180
+    second: cachado_73
+  - first:
+      213: -5629560337470571986
+    second: cachado_74
+  - first:
+      213: 4170099967396105975
+    second: cachado_75
+  - first:
+      213: 7968875625056704530
+    second: cachado_76
+  - first:
+      213: 3186656095546773141
+    second: cachado_77
+  - first:
+      213: -2123055442716457678
+    second: cachado_78
+  - first:
+      213: -1110166135142108066
+    second: cachado_79
+  - first:
+      213: -8546338537813376746
+    second: cachado_80
+  - first:
+      213: -6349444361299370956
+    second: cachado_81
+  - first:
+      213: -5756203522336898465
+    second: cachado_82
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cachado_0
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 4285
+        width: 350
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb0021e898c7a74494aa88ac9fa6c7d
+      internalID: 7326934607041376315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_1
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 4285
+        width: 349
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d49b7887d2ddc40881ae5e6e3525d4
+      internalID: 4554254695801245363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_2
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 4285
+        width: 350
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec2185ea5d2b724280d201363bc6c08
+      internalID: -919680606842149071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_3
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 4285
+        width: 350
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37164dfbd7241a4aaf498bd64e16047
+      internalID: -6227841245101030263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_4
+      rect:
+        serializedVersion: 2
+        x: 2548
+        y: 4284
+        width: 349
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6869bd6cdaea547910a1103f64628a
+      internalID: 5538286299926110552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_5
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 4285
+        width: 350
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997a81f087862eb44ac19cd408968058
+      internalID: -2343649178151596284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_6
+      rect:
+        serializedVersion: 2
+        x: 3747
+        y: 4285
+        width: 350
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f888877afa47a49928438c4ded152a
+      internalID: 5836372460659569654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_7
+      rect:
+        serializedVersion: 2
+        x: 4311
+        y: 4285
+        width: 349
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a1e04898c0d0743b15b1983f438c8f
+      internalID: 6908479691123873862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_8
+      rect:
+        serializedVersion: 2
+        x: 4946
+        y: 4285
+        width: 352
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ed32ef329387441817c2735203d19c
+      internalID: -1824543773262509824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_9
+      rect:
+        serializedVersion: 2
+        x: 5517
+        y: 4285
+        width: 356
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a57d7a44e2d57498b09b084ad99760
+      internalID: -6188777025447492831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_10
+      rect:
+        serializedVersion: 2
+        x: 6133
+        y: 4285
+        width: 356
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fedb00c2dae51f441b2639fb90ac76e6
+      internalID: -253892339308173950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_11
+      rect:
+        serializedVersion: 2
+        x: 6705
+        y: 4285
+        width: 356
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b60c5da65b440c4e9a6a081ec8af296
+      internalID: 3896245126640167871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_12
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 3684
+        width: 357
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bedce9322eb80874883b16377ec9115a
+      internalID: 6714414575290479934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_13
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 3684
+        width: 359
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8152126b27d441d4d86589e103b2bf29
+      internalID: 889539424403945657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_14
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 3684
+        width: 353
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eaa96f6c5354e2429b5b982b336b424
+      internalID: 4342182359403768513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_15
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 3684
+        width: 353
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40df0fab95403c841a7110a6d791f792
+      internalID: 2043971561649453256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_16
+      rect:
+        serializedVersion: 2
+        x: 2547
+        y: 3684
+        width: 356
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfd4c00764d64e4b877f8c3f96d92bf
+      internalID: -2354594305667974207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_17
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 3684
+        width: 350
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2711e33cd8e47d945b3e11bae050044e
+      internalID: -4402693591123919944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_18
+      rect:
+        serializedVersion: 2
+        x: 3746
+        y: 3684
+        width: 351
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e514d6ad5bfbb24d832dc207d670bf5
+      internalID: 5654053705252157539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_19
+      rect:
+        serializedVersion: 2
+        x: 4307
+        y: 3685
+        width: 349
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9490ad719d767428b4ba2b10bc355c
+      internalID: -3687971197585981052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_20
+      rect:
+        serializedVersion: 2
+        x: 4948
+        y: 3684
+        width: 310
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea7da16a66b92b4ea564f006b0c86a7
+      internalID: 3052198674457402620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_21
+      rect:
+        serializedVersion: 2
+        x: 5546
+        y: 3684
+        width: 311
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bffa19ac62894264c9a2af99dbbe7cff
+      internalID: 4662970534846379582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_22
+      rect:
+        serializedVersion: 2
+        x: 6147
+        y: 3684
+        width: 309
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e92e56f31e70a940bfbddaf6ea6aca6
+      internalID: -3992005854575056195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_23
+      rect:
+        serializedVersion: 2
+        x: 6748
+        y: 3684
+        width: 310
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2fa938e25f207c46a322e57bbda76c7
+      internalID: -1013308038742855230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_24
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 3083
+        width: 311
+        height: 435
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b8bcb0e9105374aba241f95fc82dcc
+      internalID: 8113514232886894857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_25
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 3083
+        width: 309
+        height: 435
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79858ba70d022c4188e871ccfa1da9c
+      internalID: -6051300534412489208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_26
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 3083
+        width: 310
+        height: 435
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbfd23ba927aa04780fbe791558417e
+      internalID: -1573849198311315943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_27
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 3083
+        width: 311
+        height: 435
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c3ebbab61c9524994560620d4f1018
+      internalID: 6721014546516328643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_28
+      rect:
+        serializedVersion: 2
+        x: 2547
+        y: 3083
+        width: 309
+        height: 435
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7491635ca57c0f3448fbb7508bf4c130
+      internalID: -5309576793812893631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_29
+      rect:
+        serializedVersion: 2
+        x: 3148
+        y: 3083
+        width: 310
+        height: 435
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42996ad86892eeb4684629bd9b7692ca
+      internalID: -6117880442867299048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_30
+      rect:
+        serializedVersion: 2
+        x: 3746
+        y: 3083
+        width: 311
+        height: 435
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88661bcdbc8f64429d26afcebe559be
+      internalID: 8404911093800277917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_31
+      rect:
+        serializedVersion: 2
+        x: 4347
+        y: 3083
+        width: 309
+        height: 435
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83de96ee43ddbfd47ad2c6e809ce4b3e
+      internalID: 3288577546161850923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_32
+      rect:
+        serializedVersion: 2
+        x: 4948
+        y: 3083
+        width: 310
+        height: 435
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f084da1f451784abed694da2dc9aac
+      internalID: -4213969572331400020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_33
+      rect:
+        serializedVersion: 2
+        x: 5546
+        y: 3083
+        width: 311
+        height: 435
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee27978f5a2f8ec4cb52bf5e8b6e2e52
+      internalID: 4891408364157737912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_34
+      rect:
+        serializedVersion: 2
+        x: 6147
+        y: 3083
+        width: 309
+        height: 435
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a824620514bd7408d53e4d25260bb3
+      internalID: -2851165690067494153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_35
+      rect:
+        serializedVersion: 2
+        x: 6748
+        y: 3083
+        width: 310
+        height: 435
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcebc84f06c243a4b9779760ef472e07
+      internalID: 1242960723333651963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_36
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2484
+        width: 311
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c36fb0562b48b049941bf3573f01691
+      internalID: -2411305290930094990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_37
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 2484
+        width: 309
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806435a9af6416b4dbe189fdc068a8ca
+      internalID: -6326213137153514339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_38
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 2484
+        width: 310
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfeb3d12a65d0a64cb23081b54540ec6
+      internalID: -599047591629838202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_39
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 2484
+        width: 311
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1227df1e77f5fe418b9f6e31d497368
+      internalID: -3556094451931727759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_40
+      rect:
+        serializedVersion: 2
+        x: 2547
+        y: 2484
+        width: 309
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d2887e49787544cab552455b09230c
+      internalID: 4920586294251535205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_41
+      rect:
+        serializedVersion: 2
+        x: 3148
+        y: 2484
+        width: 310
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d86fb601d47a244eb823be10531434c
+      internalID: 8087228569708101816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_42
+      rect:
+        serializedVersion: 2
+        x: 3746
+        y: 2484
+        width: 311
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5c18c93ea4df4408b66e7b36e7c66c
+      internalID: -5338636944551436205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_43
+      rect:
+        serializedVersion: 2
+        x: 4347
+        y: 2484
+        width: 309
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76fbaba9a1c36b04ab736482104f344c
+      internalID: 3266031784247081160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_44
+      rect:
+        serializedVersion: 2
+        x: 4948
+        y: 2484
+        width: 310
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23dd6a5d45d76014190fdb4102e5da2e
+      internalID: -5430090337320469784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_45
+      rect:
+        serializedVersion: 2
+        x: 5546
+        y: 2484
+        width: 311
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50bbc0b53e60f034e99f99b60a73aade
+      internalID: -1089812699592325681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_46
+      rect:
+        serializedVersion: 2
+        x: 6147
+        y: 2484
+        width: 309
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5f3f11b2b8d6b43a9cb1132b4a9a41
+      internalID: -6782504945592493126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_47
+      rect:
+        serializedVersion: 2
+        x: 6748
+        y: 2484
+        width: 310
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68579ba7c2a1274ab3f4fff065e87e0
+      internalID: -7314725313956227133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_48
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1883
+        width: 311
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2972be0a2449e498b8e31e789a9e71
+      internalID: -7579068971421582159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_49
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1873
+        width: 309
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766e861ce99b63c46be25346a1bd93a6
+      internalID: -881602268046981439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_50
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 1873
+        width: 310
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8277ad725584248a326c5e876eb772
+      internalID: -6027330185651306860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_51
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 1869
+        width: 311
+        height: 464
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dec3c112d48c644aa353fc75698e1cc
+      internalID: -7802345327648481396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_52
+      rect:
+        serializedVersion: 2
+        x: 2547
+        y: 1869
+        width: 309
+        height: 464
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1d2c81d5b478140950b07a5bccb8cd
+      internalID: -4017392260057021945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_53
+      rect:
+        serializedVersion: 2
+        x: 3148
+        y: 1866
+        width: 310
+        height: 467
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025e32bc393496b4bb1e7fe62182d5d7
+      internalID: -5543062265474765602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_54
+      rect:
+        serializedVersion: 2
+        x: 3746
+        y: 1863
+        width: 311
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bda4ea835d1b8c4bbafedb9cf3b3a2c
+      internalID: -445204857950987412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_55
+      rect:
+        serializedVersion: 2
+        x: 4347
+        y: 1862
+        width: 309
+        height: 481
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3296514cea828a1449f87a14955ed6f6
+      internalID: 2630763849292709166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_56
+      rect:
+        serializedVersion: 2
+        x: 4948
+        y: 1859
+        width: 310
+        height: 487
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ba439f8e04bf4479611d514c2ccd47
+      internalID: -503151725608764491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_57
+      rect:
+        serializedVersion: 2
+        x: 5546
+        y: 1859
+        width: 311
+        height: 487
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32cf097e0860914f992963422d68c77
+      internalID: -3566512412852871340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_58
+      rect:
+        serializedVersion: 2
+        x: 6147
+        y: 1855
+        width: 309
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b802eb1f2532146aec60839508f555
+      internalID: -8428769538641256035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_59
+      rect:
+        serializedVersion: 2
+        x: 6748
+        y: 1855
+        width: 310
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4487b7a1f9b59d0478016268c3f7f698
+      internalID: -1464454364795673547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_60
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1252
+        width: 311
+        height: 494
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d987acd09154e7042aabdb2b8284fc49
+      internalID: -2919938871338475038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_61
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1250
+        width: 309
+        height: 495
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04416bdb89e4d2a489822553c128085e
+      internalID: -4903616772665921950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_62
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 1250
+        width: 310
+        height: 495
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3bac88114eec5243b72021d132edeb8
+      internalID: -8653588146185073519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_63
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 1254
+        width: 311
+        height: 491
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e08c791bdababa4699f1108cba137c6
+      internalID: -7845560903923403119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_64
+      rect:
+        serializedVersion: 2
+        x: 2547
+        y: 1254
+        width: 309
+        height: 491
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4574a65667874d14f9558d4be0c76094
+      internalID: -8458679110530891864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_65
+      rect:
+        serializedVersion: 2
+        x: 3148
+        y: 1257
+        width: 310
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf72a478c670d440b534eb66456dd0f
+      internalID: 4813782318400065054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_66
+      rect:
+        serializedVersion: 2
+        x: 3746
+        y: 1285
+        width: 311
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98ea96065a6eff4abc45937846076b7
+      internalID: 359756506475655891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_67
+      rect:
+        serializedVersion: 2
+        x: 4347
+        y: 1285
+        width: 309
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae1a71f235753e4c98e238a55f71c3c
+      internalID: 1377567860030638434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_68
+      rect:
+        serializedVersion: 2
+        x: 4948
+        y: 1285
+        width: 310
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e885c616c68e4f04389893f2e6cbdedc
+      internalID: -2887393412109790494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_69
+      rect:
+        serializedVersion: 2
+        x: 5546
+        y: 1285
+        width: 311
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873f1b2623eba6f47910b5504e309b23
+      internalID: -5269046352121183681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_70
+      rect:
+        serializedVersion: 2
+        x: 6147
+        y: 1285
+        width: 309
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11f577df3e3cde4698c3bb670806c71
+      internalID: 8061264849742083953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_71
+      rect:
+        serializedVersion: 2
+        x: 6748
+        y: 1285
+        width: 310
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b8c814742b53943985fde62c627ba2
+      internalID: -1273405794386352099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_72
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 684
+        width: 307
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d606085ff26ec4bb766762cc1b04ee
+      internalID: -4839248234129801481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_73
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 688
+        width: 302
+        height: 425
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a662e5808ac41bb4bb65b8bffe373df0
+      internalID: -3424464325214008180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_74
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 684
+        width: 309
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde3065f62339cf4ab3e6c09ac4f29b4
+      internalID: -5629560337470571986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_75
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 705
+        width: 280
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3089329f557e44dac46973da85df09
+      internalID: 4170099967396105975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_76
+      rect:
+        serializedVersion: 2
+        x: 2572
+        y: 716
+        width: 260
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6b6af41e60a4740869dc2bf3827b92
+      internalID: 7968875625056704530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_77
+      rect:
+        serializedVersion: 2
+        x: 3163
+        y: 707
+        width: 277
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacb8ed716e4a2a4b83eb24677237fee
+      internalID: 3186656095546773141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_78
+      rect:
+        serializedVersion: 2
+        x: 3749
+        y: 684
+        width: 306
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad27b433d486c1f4dbdd93ffb4d96d0d
+      internalID: -2123055442716457678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_79
+      rect:
+        serializedVersion: 2
+        x: 4388
+        y: 741
+        width: 226
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0639eed8d35e844abc607d97cfd56d
+      internalID: -1110166135142108066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_80
+      rect:
+        serializedVersion: 2
+        x: 5033
+        y: 807
+        width: 135
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58dec7f8ca7c7f49b272d973779d830
+      internalID: -8546338537813376746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_81
+      rect:
+        serializedVersion: 2
+        x: 5666
+        y: 853
+        width: 66
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f059176c99db6aa49959d946cbbab13c
+      internalID: -6349444361299370956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cachado_82
+      rect:
+        serializedVersion: 2
+        x: 6285
+        y: 884
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4dd3b5e99c2a34c9798287fe5ef331
+      internalID: -5756203522336898465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
