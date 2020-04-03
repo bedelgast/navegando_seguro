@@ -1,7 +1,7 @@
 # navegando_seguro
 Juego sobre seguridad informática
 
->> NAVEGANDO SEGURO <<
+>> NAVEGANDO SEGURO
 Este juego se hizo en el marco de la Tercera edición de las Jornadas de Seguridad Informática del Instituto Provincial de Administración Pública del Chaco (IPAP Chaco), Argentina.
 El jugador debe completar la misión de "limpiar" internet de los virus y de los anonimos. Los virus pueden causar problemas en nuestras computadoras
 y los anonimos pueden robar nuestros datos, engañarnos e incluso nos pueden hacer mal y también a sentirnos mal. Por lo tanto tu misión
